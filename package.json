@@ -1,0 +1,17 @@
+{
+  "name": "mini-next-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js",
+    "dev":"npx mini-next dev",
+    "build":"npx mini-next build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mini-next": "^2.0.13"
+  }
+}
