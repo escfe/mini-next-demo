@@ -9,7 +9,7 @@ mini-next基于webpack@4.0+,Bable@7.0+进行项目编译,默认集成配置项�
 - url-loader
 
 ### extensions
-` ['.js', '.css', '.scss', '.jsx']`
+` ['.js', '.jsx','.ts','tsx','.css', '.scss']`
 
 ### alias
 

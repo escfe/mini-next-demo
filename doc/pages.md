@@ -7,8 +7,8 @@ pages目录下必须为项目文件夹，项目名不能命名为`index`
             └── demo.scss
 ```
 
-## 默认路由（未支持）
-pages目录下`_index.js` 或者 `_index.jsx`,框架会默认匹配为默认路由匹配为首页。
+## 默认路由
+pages目录下`_home`项目为默认首页。
 
 
 ## layout (未支持)

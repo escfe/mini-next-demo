@@ -9,7 +9,7 @@ export default class App extends Component {
     render() {
         return (
             <div className="demo">
-                hello mini-next hh
+                hello mini-next 
             </div>
         );
     }
