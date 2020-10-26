@@ -1,6 +1,5 @@
 'use strict';
 import React, { Component } from 'react';
-import './index.scss';
 
 export default class App extends Component {
     constructor(props:any) {
