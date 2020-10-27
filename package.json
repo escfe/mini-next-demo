@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mini-next": "^2.1.6"
+    "mini-next": "^2.1.7"
   }
 }
